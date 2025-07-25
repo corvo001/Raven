@@ -1,4 +1,4 @@
-# Raven
+# Raven 0.2
 
 **Raven** es una inteligencia artificial escalable desarrollada en Python, diseñada para interpretar patrones fractales complejos y clasificarlos con base en sus propiedades visuales. Su objetivo no es generar nuevos fractales, sino **analizarlos, detectar patrones, categorizarlos** y vincularlos con conocimiento humano relevante, usando técnicas de visión computacional y machine learning.
 
