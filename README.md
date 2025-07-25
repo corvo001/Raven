@@ -31,7 +31,7 @@ pip install numpy opencv-python scikit-learn matplotlib
 pip install -r requirements.txt
 ```
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 raven_ai/
@@ -50,7 +50,7 @@ raven_ai/
 └── README.md
 ```
 
-## 📖 Uso básico
+##  Uso básico
 
 ```python
 from core.fractal_interpreter import FractalInterpreter
